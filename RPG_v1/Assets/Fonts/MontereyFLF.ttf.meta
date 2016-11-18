@@ -1,0 +1,23 @@
+fileFormatVersion: 2
+guid: aa45db2b935f14ab78478d994cf52f8f
+timeCreated: 1477369689
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontNames:
+  - MontereyFLF
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 2b7d1e513030343988ac3c82b4345449, type: 3}
+  - {fileID: 12800000, guid: 1fd7f22546dec4846b528c9ec13cb42d, type: 3}
+  - {fileID: 12800000, guid: 0431bdef20ad94732aedf1ca1d3f550f, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

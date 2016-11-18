@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: 8751c613b494b488c97728ae5cbad6c9
+timeCreated: 1477369839
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontNames:
+  - Republica Minor
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 285a77b35011a43cd9d20a097825abf5, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
